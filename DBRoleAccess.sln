@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBRoleAccess", "DBRoleAccess.csproj", "{530C9D12-E17C-4D3C-A1A2-8E85EF059C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{530C9D12-E17C-4D3C-A1A2-8E85EF059C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530C9D12-E17C-4D3C-A1A2-8E85EF059C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530C9D12-E17C-4D3C-A1A2-8E85EF059C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530C9D12-E17C-4D3C-A1A2-8E85EF059C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E93940-A4C0-402B-8465-47599F019A40}
+	EndGlobalSection
+EndGlobal
